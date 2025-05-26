@@ -16,9 +16,7 @@
 - Projects related to privacy and encryption  
 
 ### 📫 How to reach me
-- Email: your.email@example.com  
-- Twitter: [@KunDevOOP](https://twitter.com/KunDevOOP)  
-- LinkedIn: [KunDevOOP](https://linkedin.com/in/KunDevOOP)  
+- Email: kuntheadevoop@gmail.com
 
 ### 😄 Pronouns
 - He/Him  
